@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "426617915308",
+    "firebase_url": "https://smart-libary-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-libary",
+    "storage_bucket": "smart-libary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426617915308:android:559fd8f249f17499c19c09",
+        "android_client_info": {
+          "package_name": "com.example.libary_smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBtt7gvvzKsD68L6BKlWs2QgBcGp-LG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
